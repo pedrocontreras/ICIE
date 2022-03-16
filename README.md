@@ -2,3 +2,44 @@
 
 List of Industrial Cyber Incidents Events
 WORK IN PROGRESS
+
+## Other Sources
+Databases/sources of information for accident/incidents in CNI (particular focus on UK and IIoT)
+
+1. NCSC Weekly threat reports. 
+•	Not limited to UK incidents/threats.  
+•	No reference to IIoT; only 2 reports mention IoT
+https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc
+
+2. Cyber Security Information Sharing Partnership 
+•	Joint industry and government initiative run by the NCSC
+•	Requires becoming a member 
+https://www.ncsc.gov.uk/section/keep-up-to-date/cisp
+
+3. IT Governance blog
+•	Publishes monthly lists of data breaches and cyber attacks from all over the world
+•	A bit cumbersome to search, but seems fairly comprehensive
+https://www.itgovernance.co.uk/blog/category/monthly-data-breaches-and-cyber-attacks
+
+4. Center for Strategic and International Studies
+•	Maintains a record of significant cyber incidents affecting CNI
+•	No IoT devices reported
+https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
+
+5.  ICS STRIVE launched by the publishers of Industrial Safety and Security Source (ISSSource.com) 
+•	Aims to identify and define cyber incidents that have occurred in industrial environments, globally.
+•	There do not seem to be any IIoT/IoT  related incidents
+https://icsstrive.com/
+
+6. Turn-Key Technologies blog entry: The biggest hacks in the history of the industrial IoT
+https://www.turn-keytechnologies.com/blog/article/from-stuxnet-to-industroyer-the-biggest-hacks-in-the-history-of-the-industrial-iot/
+
+7. Outpost 24 blog entry: The-IoT-attacks-everyone-should-know-about
+https://outpost24.com/blog/the-iot-attacks-everyone-should-know-about
+
+8. NHS cybersecurity notifications
+https://digital.nhs.uk/cyber-alerts
+Cyber alerts for IoT: https://digital.nhs.uk/search?query=IoT
+
+9. International database for Industrial Security Incidents: RISI (not updated after 2015)
+https://www.risidata.com/Database
