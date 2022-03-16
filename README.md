@@ -1,7 +1,8 @@
 # Industrial Cyber Incidents Events
 
 List of Industrial Cyber Incidents Events
-WORK IN PROGRESS
+
+**WORK IN PROGRESS**
 
 ## Other Sources
 Databases/sources of information for accident/incidents in CNI (particular focus on UK and IIoT)
