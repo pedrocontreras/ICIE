@@ -8,50 +8,38 @@ List of Industrial Cyber Incidents Events
 Databases/sources of information for accident/incidents in CNI (particular focus on UK and IIoT)
 
 1. NCSC Weekly threat reports. 
-
-•	Not limited to UK incidents/threats.  
-•	No reference to IIoT; only 2 reports mention IoT
-https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc
+	- https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc
 
 2. Cyber Security Information Sharing Partnership 
-
-•	Joint industry and government initiative run by the NCSC
-•	Requires becoming a member 
-https://www.ncsc.gov.uk/section/keep-up-to-date/cisp
+	- https://www.ncsc.gov.uk/section/keep-up-to-date/cisp
 
 3. IT Governance blog
 
-•	Publishes monthly lists of data breaches and cyber attacks from all over the world
-•	A bit cumbersome to search, but seems fairly comprehensive
-https://www.itgovernance.co.uk/blog/category/monthly-data-breaches-and-cyber-attacks
+	- https://www.itgovernance.co.uk/blog/category/monthly-data-breaches-and-cyber-attacks
 
 4. Center for Strategic and International Studies
 
-•	Maintains a record of significant cyber incidents affecting CNI
-•	No IoT devices reported
-https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
+	- https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
 
 5.  ICS STRIVE launched by the publishers of Industrial Safety and Security Source (ISSSource.com) 
 
-•	Aims to identify and define cyber incidents that have occurred in industrial environments, globally.
-•	There do not seem to be any IIoT/IoT  related incidents
-https://icsstrive.com/
+	- https://icsstrive.com/
 
 6. Turn-Key Technologies blog entry: The biggest hacks in the history of the industrial IoT
-https://www.turn-keytechnologies.com/blog/article/from-stuxnet-to-industroyer-the-biggest-hacks-in-the-history-of-the-industrial-iot/
+	- https://www.turn-keytechnologies.com/blog/article/from-stuxnet-to-industroyer-the-biggest-hacks-in-the-history-of-the-industrial-iot/
 
 7. Outpost 24 blog entry: The-IoT-attacks-everyone-should-know-about
-https://outpost24.com/blog/the-iot-attacks-everyone-should-know-about
+	- https://outpost24.com/blog/the-iot-attacks-everyone-should-know-about
 
 8. NHS cybersecurity notifications
-https://digital.nhs.uk/cyber-alerts
-Cyber alerts for IoT: https://digital.nhs.uk/search?query=IoT
+	- https://digital.nhs.uk/cyber-alerts
+	- Cyber alerts for IoT: https://digital.nhs.uk/search?query=IoT
 
 9. International database for Industrial Security Incidents: RISI (not updated after 2015)
-https://www.risidata.com/Database
+	- https://www.risidata.com/Database
 
 10. Failure and ACcidents Technical information System
-http://www.factsonline.nl
+	- http://www.factsonline.nl
 
 
 11. INFOSIS/ZEMA (in German)
@@ -61,14 +49,14 @@ http://www.factsonline.nl
 https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-03-11_zema_2015-2017.pdf
 
 12. The ARIA database (in French & in English)
-https://www.aria.developpement-durable.gouv.fr/?lang=en&s= 
-https://www.aria.developpement-durable.gouv.fr/the-barpi/useful-links/other-accident-databases/?lang=en
+	- https://www.aria.developpement-durable.gouv.fr/?lang=en&s= 
+	- https://www.aria.developpement-durable.gouv.fr/the-barpi/useful-links/other-accident-databases/?lang=en
 
 13. The U.S. Chemical Safety Board (in English)
-https://www.csb.gov/
+	- https://www.csb.gov/
 
 14. The Center for Strategic and International Studies cyber incidents list
-https://www.csis.org/programs/technology-policy-program/significant-cyber-incidents
+	- https://www.csis.org/programs/technology-policy-program/significant-cyber-incidents
 
 15. Tukes VARO registry of chemical accidents in Finland (in Finnish)
 
